@@ -1,1 +1,1 @@
-jdk:17.0.11
+easzlab/kubeasz:3.6.4
