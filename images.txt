@@ -1,1 +1,1 @@
-coredns/coredns:1.11.1
+easzlab/k8s-dns-node-cache:1.22.28
