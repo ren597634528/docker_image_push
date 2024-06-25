@@ -1,1 +1,1 @@
-easzlab/kubeasz-ext-bin:1.10.1
+calico/cni:v3.26.4
