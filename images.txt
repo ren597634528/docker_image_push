@@ -1,1 +1,1 @@
-kubeasz-sys-pkg:1.0.1_ubuntu_22
+easzlab/kubeasz-k8s-bin:1.27.5
