@@ -1,1 +1,1 @@
-easzlab/kubeasz-k8s-bin:1.27.5
+kubeasz-k8s-bin:1.27.5
