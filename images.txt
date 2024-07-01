@@ -1,1 +1,1 @@
-easzlab/metrics-server:v0.7.1
+easzlab.io.local:5000/calico/kube-controllers:v3.26.4
