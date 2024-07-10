@@ -1,1 +1,1 @@
-calico/kube-controllers:v3.26.4
+coredns/coredns:1.7.1
