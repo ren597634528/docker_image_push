@@ -1,1 +1,1 @@
-kubesphere/kube-state-metrics:v2.5.0
+jaegertracing/jaeger-collector:1.27
