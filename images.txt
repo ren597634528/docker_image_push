@@ -1,1 +1,1 @@
-jaegertracing/jaeger-collector:1.27
+thanosio/thanos:v0.25.2
