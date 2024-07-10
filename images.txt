@@ -1,1 +1,1 @@
-kubesphere/ks-controller-manager:v3.3.2
+kubesphere/openpitrix-jobs:v3.3.2
