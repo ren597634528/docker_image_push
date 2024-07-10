@@ -1,1 +1,1 @@
-docker.io/library/centos:7
+docker.io/library/centos:8
