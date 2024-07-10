@@ -1,1 +1,1 @@
-mirrorgooglecontainers/metrics-server-amd64:v0.3.6
+docker.io/library/centos:7
