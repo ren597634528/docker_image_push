@@ -1,1 +1,1 @@
-thanosio/thanos:v0.25.2
+kubesphere/prometheus-operator:v0.55.1
