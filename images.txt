@@ -1,1 +1,1 @@
-kubesphere/ks-installer:v3.3.2
+kubesphere/ks-console:v3.3.2
