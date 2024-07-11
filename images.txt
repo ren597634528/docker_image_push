@@ -1,1 +1,1 @@
-kubesphere/prometheus-operator:v0.55.1
+kubesphere/elasticsearch-oss:6.8.22
