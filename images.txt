@@ -1,1 +1,4 @@
-kubesphere/fluent-bit:v1.8.11
+kubesphere/s2ioperator:v3.2.1
+kubesphere/devops-tools:ks-v3.3.2
+kubesphere/ks-jenkins:v3.3.0-2.319.1
+kubesphere/kube-events-exporter:v0.4.0
