@@ -1,1 +1,1 @@
-kubesphere/kube-events-ruler:v0.4.0
+prom/node-exporter:v1.3.1
