@@ -1,1 +1,1 @@
-kubesphere/devops-apiserver:ks-v3.3.2
+kubesphere/devops-controller:ks-v3.3.2
