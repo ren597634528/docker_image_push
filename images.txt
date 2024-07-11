@@ -1,1 +1,2 @@
-kubesphere/elasticsearch-oss:6.8.22
+kubesphere/log-sidecar-injector:v1.2.0
+kubesphere/fluentbit-operator:v0.13.0
