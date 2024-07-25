@@ -1,3 +1,1 @@
-
-prom/prometheus:v2.34.0
-
+kubesphere/builder-base:v3.2.2
