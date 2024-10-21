@@ -1,1 +1,1 @@
-busybox:1.28
+harbor.likf.space/zabbix/zabbix-server-mysql:latest
