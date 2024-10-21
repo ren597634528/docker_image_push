@@ -1,1 +1,1 @@
-calico/node:v3.8.2
+vbouchaud/nfs-client-provisioner:latest
