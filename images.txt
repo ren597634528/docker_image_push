@@ -1,1 +1,1 @@
-zabbix/zabbix-server-mysql:6.2.6-centos
+zabbix/zabbix-web-nginx-mysql:6.2.6-centos
