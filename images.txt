@@ -1,1 +1,1 @@
-harbor.likf.space/zabbix/zabbix-server-mysql:latest
+zabbix/zabbix-server-mysql:latest
