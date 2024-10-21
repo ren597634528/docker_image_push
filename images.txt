@@ -1,1 +1,1 @@
-enmotech/opengauss:3.0.0
+calico/cni:v3.8.2
