@@ -1,1 +1,1 @@
-nginx:latest
+zabbix/zabbix-server-mysql:6.2.6-centos
