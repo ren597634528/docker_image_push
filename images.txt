@@ -1,1 +1,1 @@
-calico/kube-controllers:v3.8.2
+calico/pod2daemon-flexvol:v3.8.2
