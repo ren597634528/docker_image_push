@@ -1,1 +1,1 @@
-zabbix/zabbix-web-nginx-mysql:6.2.6-centos
+mysql:5.7
