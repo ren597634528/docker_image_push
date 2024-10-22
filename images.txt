@@ -1,1 +1,1 @@
-zabbix-agent:6.2.6-centos
+zabbix/zabbix-agent2:6.2.6-centos
