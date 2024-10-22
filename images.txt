@@ -1,1 +1,3 @@
-kubeguide/hadoop:latest
+zabbix/zabbix-server-mysql:alpine-3.2.5
+zabbix/zabbix-agent:alpine-3.2.5
+zabbix/zabbix-web-apache-mysql:alpine-3.2.5
