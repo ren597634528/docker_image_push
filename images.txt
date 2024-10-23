@@ -1,2 +1,1 @@
-zabbix/zabbix-server-mysql:6.4.4-centos
-zabbix/zabbix-web-nginx-mysql:6.4.4-centos
+vbouchaud/nfs-client-provisioner:latest
