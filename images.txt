@@ -1,1 +1,1 @@
-vbouchaud/nfs-client-provisioner:latest
+minio/minio:latest
