@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.1.0
+easzlab/kubeasz:3.6.2
