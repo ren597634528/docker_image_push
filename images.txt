@@ -1,1 +1,1 @@
-easzlab/kubernetes:v1.27.5
+gitlab/gitlab-ce:17.5.0-ce.0
