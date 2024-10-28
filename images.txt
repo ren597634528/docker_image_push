@@ -1,1 +1,1 @@
-easzlab/kubeasz:3.6.2
+kubernetes:v1.27.5
