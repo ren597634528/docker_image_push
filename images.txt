@@ -1,1 +1,1 @@
-gemfield/faiss:1.6.3-devel
+ busybox:1.28.4
