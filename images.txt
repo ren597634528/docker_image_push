@@ -4,7 +4,6 @@ k8s.gcr.io/sig-storage/csi-snapshotter:v4.2.1
 k8s.gcr.io/sig-storage/snapshot-controller:v4.2.1
 k8s.gcr.io/sig-storage/csi-provisioner:v3.0.0
 k8s.gcr.io/sig-storage/csi-attacher:v3.4.0
-quay.io/k8scsi/csi-attacher:v1.2.1
 storage-backend-controller:4.3.0
 storage-backend-sidecar:4.3.0
 huawei-csi:4.3.0
