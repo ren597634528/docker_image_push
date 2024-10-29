@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:17.5.0-ce.0
+gemfield/faiss:1.6.3-devel
