@@ -8,4 +8,3 @@ quay.io/k8scsi/csi-attacher:v1.2.1
 storage-backend-controller:4.3.0
 storage-backend-sidecar:4.3.0
 huawei-csi:4.3.0
-quay.io/k8scsi/csi-provisioner:v1.4.0
