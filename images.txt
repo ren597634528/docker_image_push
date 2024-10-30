@@ -1,1 +1,1 @@
-storage-backend-controller:4.3.0
+huawei-csi:4.3.0
