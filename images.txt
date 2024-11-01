@@ -1,1 +1,1 @@
-vbouchaud/nfs-client-provisioner:latest
+easzlab/kubeasz:3.2.0
