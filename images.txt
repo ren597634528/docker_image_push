@@ -1,1 +1,1 @@
-rapidfort/microsoft-sql-server-2019-ib:latest
+ibizlab/mysql:5.7.plm.20240726
