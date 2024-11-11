@@ -1,1 +1,1 @@
-ibizlab/mysql:5.7.plm.20240726
+facebookresearch/faiss:latest
