@@ -1,1 +1,1 @@
-defaultbackend-amd64:v1.5
+defaultbackend/defaultbackend-amd64:v1.5
