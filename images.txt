@@ -1,1 +1,1 @@
-elastic/kibana:6.8.13
+dyrnq/kube-webhook-certgen:v20220916-gd32f8c343
