@@ -1,1 +1,1 @@
-facebookresearch/faiss:latest
+tomcat:7.0
