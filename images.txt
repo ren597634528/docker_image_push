@@ -1,1 +1,1 @@
-tomcat:7.0
+elastic/elasticsearch:6.8.13
