@@ -1,1 +1,1 @@
-mcr.microsoft.com/dotnet/samples:aspnetapp
+deluan/navidrome:pr-3426
