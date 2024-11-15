@@ -1,1 +1,1 @@
-aspnetcore_sample mcr.microsoft.com/dotnet/samples:aspnetapp
+mcr.microsoft.com/dotnet/samples:aspnetapp
