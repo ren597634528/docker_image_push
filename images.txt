@@ -1,1 +1,1 @@
-microsoft/dotnet:2.2-aspnetcore-runtime
+aspnetcore_sample mcr.microsoft.com/dotnet/samples:aspnetapp
