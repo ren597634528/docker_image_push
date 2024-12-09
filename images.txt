@@ -1,1 +1,1 @@
-kubernetesui/dashboard:v2.0.4
+actions-deploy-springboot-backend:0.1
