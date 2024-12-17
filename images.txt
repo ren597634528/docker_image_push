@@ -1,1 +1,1 @@
-actions-deploy-springboot-backend:0.1
+docker.io/library/node:latest
