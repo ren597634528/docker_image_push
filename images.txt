@@ -1,1 +1,1 @@
-docker.io/library/node:latest
+docker.io/library/postgres:17
