@@ -1,1 +1,1 @@
-docker.io/library/postgres:17
+docker.io/library/python:3.13-slim
