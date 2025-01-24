@@ -1,1 +1,1 @@
-mariadb:10.8
+whyour/qinglong:latest
