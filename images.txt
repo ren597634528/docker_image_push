@@ -1,1 +1,1 @@
-quay.io/jupyterhub/k8s-image-awaiter:3.3.8
+quay.io/jupyterhub/k8s-singleuser-sample:3.3.8
