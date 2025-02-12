@@ -1,1 +1,1 @@
-quay.io/jupyterhub/k8s-image-awaiter:set-by-chartpress
+k8s-image-awaiter:set-by-chartpress
