@@ -1,1 +1,1 @@
-k8s-image-awaiter:set-by-chartpress
+registry.k8s.io/kube-scheduler:v1.26.15
