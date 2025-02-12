@@ -1,1 +1,1 @@
-registry.k8s.io/kube-scheduler:v1.26.15
+quay.io/jupyterhub/k8s-network-tools:3.3.8
