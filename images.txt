@@ -1,1 +1,1 @@
- mintplexlabs/anythingllm
+clash-lan/clash:latest
