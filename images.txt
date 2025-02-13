@@ -1,1 +1,1 @@
-quay.io/jetstack/cert-manager-controller:v1.10.1
+gcr.dockerproxy.com/arrikto/kubeflow/oidc-authservice:e236439
