@@ -1,1 +1,1 @@
-gcr.dockerproxy.com/kubebuilder/kube-rbac-proxy:v0.8.0
+gcr.dockerproxy.com/ml-pipeline/mysql:8.0.26
