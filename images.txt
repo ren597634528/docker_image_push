@@ -1,1 +1,1 @@
-gcr.dockerproxy.com/arrikto/kubeflow/oidc-authservice:e236439
+gcr.io/arrikto/kubeflow/oidc-authservice:e236439
