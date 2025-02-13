@@ -1,1 +1,1 @@
-gcr.dockerproxy.com/ml-pipeline/workflow-controller:v3.3.8-license-compliance
+gcr.dockerproxy.com/kubebuilder/kube-rbac-proxy:v0.8.0
