@@ -1,1 +1,1 @@
-gcr.dockerproxy.com/ml-pipeline/cache-server:2.0.0-alpha.7
+gcr.dockerproxy.com/kubebuilder/kube-rbac-proxy:v0.13.1
