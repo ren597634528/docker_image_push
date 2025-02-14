@@ -1,1 +1,1 @@
-gcr.dockerproxy.com/ml-pipeline/persistenceagent:2.0.0-alpha.7
+gcr.dockerproxy.com/tfx-oss-public/ml_metadata_store_server:1.5.0
