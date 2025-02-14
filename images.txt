@@ -1,1 +1,1 @@
-gcr.dockerproxy.com/ml-pipeline/metadata-writer:2.0.0-alpha.7
+gcr.dockerproxy.com/ml-pipeline/minio:RELEASE.2019-08-14T20-37-41Z-license-compliance
