@@ -1,1 +1,1 @@
-gcr.dockerproxy.com/ml-pipeline/minio:RELEASE.2019-08-14T20-37-41Z-license-compliance
+gcr.dockerproxy.com/ml-pipeline/api-server:2.0.0-alpha.7
