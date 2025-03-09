@@ -1,1 +1,1 @@
-docker.io/library/alpine:latest
+jenkins/jenkins:2.392-jdk21
