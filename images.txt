@@ -1,1 +1,1 @@
-jenkins/jenkins:2.392-jdk11
+nginx-nginx-upgrade-1_26_3
