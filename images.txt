@@ -1,1 +1,1 @@
-nginx-nginx-upgrade-1_26_3
+java:8
