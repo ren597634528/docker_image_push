@@ -1,1 +1,1 @@
-pengbaolin/scgpt:latest
+judft/fleur
