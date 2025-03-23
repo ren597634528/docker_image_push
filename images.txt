@@ -1,1 +1,1 @@
-judft/fleur
+ubuntu:22.04
