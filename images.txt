@@ -1,1 +1,2 @@
-cloudsaver/cloudsaver:latest
+docker.io/library/python:3.12.3-slim
+docker.io/library/node:21.7.2-bookworm-slim
