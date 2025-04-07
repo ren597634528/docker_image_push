@@ -1,1 +1,1 @@
-docker.io/library/generator-base:latest
+ubuntu:22.04.3
