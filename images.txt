@@ -1,1 +1,1 @@
-node:6-alpine
+docker.io/library/python:3.12.8-slim-bookworm
