@@ -1,1 +1,1 @@
-nginx:1.22.0docker.io/library/python:3.12.8-slim-bookworm
+nginx:1.22.0
