@@ -1,1 +1,1 @@
-python:3.5.7
+ragflow:v0.16.0-slim
