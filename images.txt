@@ -1,1 +1,1 @@
-servant/svnserve
+subversion
