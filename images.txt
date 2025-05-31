@@ -1,1 +1,1 @@
-subversion
+docker.io/langgenius/dify-community:1.4.1
