@@ -1,1 +1,1 @@
-docker.io/langgenius/dify-community:1.4.1
+rabbitmq:3.8-managemen
