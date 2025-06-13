@@ -1,1 +1,1 @@
-docker.io/rabbitmq:3.8-managemen
+amtoaer/bili-sync-rs:latest
