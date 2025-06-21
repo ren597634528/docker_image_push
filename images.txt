@@ -1,1 +1,1 @@
-amtoaer/bili-sync-rs:latest
+jonnyan404/verysync
