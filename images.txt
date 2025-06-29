@@ -1,1 +1,1 @@
-jonnyan404/verysync
+python:3.11-alpine
