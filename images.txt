@@ -1,1 +1,1 @@
-headwindmdm/hmdm:0.1.5
+nvidia/cuda:11.0.3-base-ubuntu16.04
