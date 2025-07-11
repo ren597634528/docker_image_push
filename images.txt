@@ -1,1 +1,1 @@
-llama_factory
+docker.io/hiyouga/pytorch:th2.6.0-cu124-flashattn2.7.4-cxx11a
