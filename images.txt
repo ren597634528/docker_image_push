@@ -1,7 +1,1 @@
-postgres:17.4-alpine
-redis:7.4.2-alpine
-billionmail/rspamd:1.1
-billionmail/dovecot:1.4
-billionmail/postfix:1.5
-roundcube/roundcubemail:1.6.10-fpm-alpine
-billionmail/core:4.0.1
+kibana:8.13.0
