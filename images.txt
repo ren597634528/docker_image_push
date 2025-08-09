@@ -1,1 +1,1 @@
-kubeguide/tomcat-app:v1
+redis:6.2.0-alpine3.13
