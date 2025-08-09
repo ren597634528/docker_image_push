@@ -1,2 +1,1 @@
-node:18-alpine
-python:3.11-slim
+kubeguide/tomcat-app:v1
