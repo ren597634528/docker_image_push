@@ -1,1 +1,1 @@
-dockerck.e21.cn/library/gitlab-ce:13.8.6-ce.1
+pytorch:2.5.0-cuda12.4-cudnn9-devel:v1
