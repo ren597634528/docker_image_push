@@ -1,1 +1,1 @@
-pytorch/pytorch:2.5.0-cuda12.4-cudnn9-devel
+rancher/rancher:v2.9.2
