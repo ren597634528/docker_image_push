@@ -1,1 +1,1 @@
-openroad/flow-ubuntu22.04-dev:latest
+docker.io/liangjw/kube-webhook-certgen:v1.1.1
