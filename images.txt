@@ -1,1 +1,1 @@
-openroad/ubuntu22.04-dev
+openroad/flow-ubuntu22.04-dev:latest
