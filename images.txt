@@ -1,1 +1,1 @@
-docker.io/projecthami/hami:v2.6.0
+dockerhub.icu/langgenius/dify-api:0.15.2
