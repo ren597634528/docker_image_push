@@ -1,3 +1,4 @@
-jefferyhjw/bilinote-backend:latest
-jefferyhjw/bilinote-frontend:latest
-jefferyhjw/bilinote-nginx:latest
+heurekalabs/pysyft-notebook:latest
+heurekalabs/grid-gateway:latest
+heurekalabs/turbofan-engine:latest
+heurekalabs/turbofan-federated-trainer:latest
