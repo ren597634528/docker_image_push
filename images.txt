@@ -1,4 +1,1 @@
-heurekalabs/pysyft-notebook:latest
-heurekalabs/grid-gateway:latest
-heurekalabs/turbofan-engine:latest
-heurekalabs/turbofan-federated-trainer:latest
+vllm/vllm-openai:latest
