@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+mysql:8.0.32
