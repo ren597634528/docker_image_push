@@ -1,1 +1,1 @@
-teg57/xcrysden:1.6.2-web
+jenkins/jenkins:lts
