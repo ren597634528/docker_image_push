@@ -1,1 +1,1 @@
-bitnami/spark:latest
+spark:latest
