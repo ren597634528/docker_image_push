@@ -1,1 +1,1 @@
-spark:latest
+talebook/talebook
