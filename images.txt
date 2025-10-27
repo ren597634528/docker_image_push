@@ -1,1 +1,1 @@
-docker.io/library/python:3.13-slim
+openjdk:8-jdk-alpine3.7
