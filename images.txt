@@ -1,1 +1,1 @@
-docker.io/library/python:3.10.18-bookworm
+gcr.io/cadvisor/cadvisor:latest
