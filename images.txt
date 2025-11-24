@@ -1,1 +1,4 @@
-openjdk:8u102-jre
+kerwincui/zlmedia-record:2.0
+tdengine/tdengine:3.3.5.8
+mysql:5.7
+redis:7.0.0
