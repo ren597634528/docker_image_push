@@ -1,1 +1,1 @@
-docker.io/library/openjdk:8-jre
+openjdk:8-jre
