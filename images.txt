@@ -1,1 +1,1 @@
-1panel/1panel:latest
+mediagis/nominatim:4.0
