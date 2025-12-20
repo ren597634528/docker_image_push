@@ -1,1 +1,1 @@
-ghcr.io/zxh326/kite:latest
+node:20-slim
