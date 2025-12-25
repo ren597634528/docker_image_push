@@ -1,1 +1,1 @@
-registry.k8s.io/nfd/node-feature-discovery:v0.18.2
+nvidia/cuda:11.0-base
