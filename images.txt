@@ -1,1 +1,1 @@
-node:20-slim
+gpu-operator-node-feature-discovery-worker-v6lwh 
