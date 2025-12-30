@@ -1,1 +1,2 @@
-docker.io/calico/apiserver:v3.28.0
+kubernetesui/metrics-scraper:v1.0.8
+kubernetesui/dashboard:v2.7.0
