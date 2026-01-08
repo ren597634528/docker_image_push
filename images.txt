@@ -1,1 +1,1 @@
-docker.io/library/python:3.10-slim
+nginx:1.25-alpine
