@@ -1,10 +1,5 @@
-busybox:latest
-ubuntu/squid:latest
-langgenius/dify-plugin-daemon:0.5.2-local
-langgenius/dify-api:1.11.4
-nginx:latest
-postgres:15-alpine
-langgenius/dify-sandbox:0.2.12
-semitechnologies/weaviate:1.27.0
-langgenius/dify-web:1.11.4
-redis:6-alpine
+paradedb/paradedb:v0.21.4-pg17
+redis:7.0-alpine
+wechatopenai/weknora-app:latest
+wechatopenai/weknora-docreader:latest
+wechatopenai/weknora-ui:latest
