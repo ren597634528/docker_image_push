@@ -1,1 +1,2 @@
-registry:2
+ansible/awx_web:17.1.0
+ansible/awx_task:17.1.0
