@@ -1,1 +1,1 @@
-gcr.io/kaggle-gpu-images/python:latest
+registry:2
