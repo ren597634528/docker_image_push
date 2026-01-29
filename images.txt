@@ -1,2 +1,2 @@
-ansible/awx_web
-ansible/awx_task
+awx_web:17.1.0
+awx_task:17.1.0
