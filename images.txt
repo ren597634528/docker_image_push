@@ -1,1 +1,1 @@
-opendilab/lightrft:v0.1.0
+1panel/openclaw:2026.2.6
